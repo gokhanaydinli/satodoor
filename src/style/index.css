@@ -235,6 +235,10 @@
     #services .whiteBg {
       padding-top: 0!important;
     }
+    .cIhXyI {
+      min-height: 72px!important;
+      padding-bottom: 0!important;
+    }
   }
   .gegOru {
     margin: 20px;
@@ -314,4 +318,8 @@
   }
   .pdf-container img {
     margin-right: 24px;
+  }
+  .cIhXyI {
+    padding-bottom: 0;
+    min-height: 130px;
   }
