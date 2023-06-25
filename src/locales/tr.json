@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "home": "Anasayfa",
+    "about": "Hakkında",
+    "projects": "Projeler",
+    "contact": "İletişim"
+  },
+  "header": {
+    "title": "Güvenilir İnşaat, Taahhüt ve Yangın Kapısı Çözümleri",
+    "description": "Satodoor olarak, inşaat, taahhüt ve yangın kapıları gibi çeşitli hizmetlerde güvenilir çözümler sunuyoruz. Geniş ürün yelpazemiz, estetik ve dayanıklı kapılarla projelerinize değer katıyor. İnşaat projelerinizde uzman ekibimizle çalışarak en yüksek kalite standartlarını sağlıyoruz."
+  },
+  "document": {
+    "catalogTitle": "Sato Door Çelik Kapı kataloglarına erişin",
+    "catalogLink": "Ürün Kataloğu",
+    "technicalTitle": "Teknik detayların yer aldığı dosyalara erişin",
+    "technicalLink": "Teknik Dosyalar",
+    "galleryTitle": "Şato Door Çelik Kapı fotoğraf galerisine erişin",
+    "galleryLink": "Foto Galeri"
+  },
+  "services":{
+    "title":"Hizmetlerimiz",
+    "description": "İhtiyaçlarınıza Uygun Geniş Hizmet Yelpazesi",
+    "subDescription":"İnşaat & Taahhüt Hizmetleri, Yangın Kapıları ve Güvenlik Çözümleri, Estetik ve Dayanıklı Kapılar.",
+    "villaTitle":"Demir doğrama inşaat taahhüt işleri",
+    "villaSubtitle": "Demir doğrama inşaat taahhüt işleri kapsamında, tomatik kepenkler ve seksonel kapılar gibi işlevsel özelliklere sahip ürünler tercih edilmektedir.",
+    "entranceTitle":"Daire Giriş Kapıları",
+    "entranceSubtitle":"Dünyanın en güvenli çelik kapısı; sayısız model, renk, kaplama ve kilit seçeneği ile beklentinizin ötesinde çözümler sunuyor.",
+    "constructionTitle":"İnşaat & Taahhüt",
+    "fireSubtitle":"Uluslararası standartlara göre üretilmiş, test edilmiş ve sertifikalandırılmış yangın kapıları.",
+    "fireTitle":"Yangın Kapıları",
+    "constructionSubtitle":"Satodoor'un profesyonel inşaat ve taahhüt hizmetleriyle güvenle inşa edin. Uzman ekibimiz, en yüksek kalite standartlarına uygun olarak inşaat projelerinizi başarıyla tamamlar."
+  },
+    "eczacibasi":{
+      "Kanyon":"Eczacıbaşı Kanyon",
+      "KanyonDesc": "Eczacıbaşı Kanyon yangın kapısı ve inşaat taahhüt işleri"
+    },
+    "isBankasi": {
+      "Kuleler":"İş bankası Kuleler",
+      "KulelerDesc": "İş bankası Kuleler levent kapı, yangın kapısı, inşaa taahhüt işleri"
+    },
+    "siseCam": {
+      "title":"Şişe Cam",
+      "siseCamDesc": "Şişe Cam Yangın kapısı ve demir doğrama inşaat taahhüt işleri"
+    },
+    "ibb": {
+      "MetroUlasim": "İ.B.B Metro Ulaşım",
+      "MetroUlasimDesc": "İ.B.B Metro Ulaşım; yangın kapıları paslanmaz yönlendirme yol yapım işleri"
+    },
+    "isBankasi2":{
+      "title":"İş bankası",
+      "description": "İş bankası Tutom Tuzla kapı inşaat işleri, demir doğrama"
+    }    ,
+    "ibbMetro": {
+      "title": "İ.B.B Metro",
+      "description": "İ.B.B Metro Ulaşım otomatik kepenk, seksonel kapı"
+    },
+    "projects": {
+      "Title":"Projelerimiz",
+      "description1": "Satodoor olarak, inşaat ve taahhüt projelerinde güvenilir işçilik ve başarılı projeler sunuyoruz.",
+      "description2":"Geçmişte gerçekleştirdiğimiz örnek projelerimiz, kalite standartlarına uyum ve müşteri memnuniyetiyle tanınmaktadır."
+    },
+    "contact": {
+      "Title":"Bize Ulaşın",
+      "Description1":  "Bize ulaşın, ihtiyaçlarınızı dinleyelim ve size en uygun çözümü sunalım.",
+      "tDescription2": "İşletmeniz için güvenilir, kaliteli ve estetik çözümler için Satodoor sizin yanınızda.",
+      "PhoneNumber": "Telefon Numaramız:",
+      "EmailAddress": "E-Mail Adresimiz:"
+    }
+
+}

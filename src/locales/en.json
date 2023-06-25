@@ -1,0 +1,69 @@
+{
+  "header": {
+    "title": "Reliable Construction, Contracting, and Fire Door Solutions",
+    "description": "At Satodoor, we provide reliable solutions in various services such as construction, contracting, and fire doors. Our wide range of products adds value to your projects with aesthetic and durable doors. We ensure the highest quality standards by working with our expert team in your construction projects."
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "document": {
+    "catalogTitle": "Access Sato Door Steel Door catalogs",
+    "catalogLink": "Product Catalog",
+    "technicalTitle": "Access files with technical details",
+    "technicalLink": "Technical Files",
+    "galleryTitle": "Access Sato Door Steel Door photo gallery",
+    "galleryLink": "Photo Gallery"
+  },
+    "services": {
+      "title": "Our Services",
+      "description": "Wide Range of Services for Your Needs",
+      "subDescription": "Construction & Contracting Services, Fire Doors and Security Solutions, Aesthetic and Durable Doors.",
+      "villaTitle": "Ironwork construction contracting.",
+      "villaSubtitle": "Within the scope of ironwork construction contracting, products with functional features such as automatic roller shutters and sectional doors are preferred.",
+      "entranceTitle": "Entrance Doors",
+      "entranceSubtitle": "The world's most secure steel door; offers solutions beyond your expectations with numerous models, colors, finishes, and lock options.",
+      "constructionTitle": "Construction & Contracting",
+      "fireSubtitle": "Fire doors produced, tested, and certified according to international standards.",
+      "fireTitle": "Fire Doors",
+      "constructionSubtitle": "Build with confidence through Satodoor's professional construction and contracting services. Our expert team successfully completes your construction projects in accordance with the highest quality standards."
+    },
+    "eczacibasi": {
+      "Kanyon": "Eczacıbaşı Kanyon",
+      "KanyonDesc": "Eczacıbaşı Kanyon fire door and construction contracting works"
+    },
+    "isBankasi": {
+      "Kuleler": "İş Bankası Towers",
+      "KulelerDesc": "İş Bankası Towers Levent gate, fire door, construction contracting works"
+    },
+    "siseCam": {
+      "title": "Şişe Cam",
+      "siseCamDesc": "Şişe Cam fire door and ironwork construction contracting works"
+    },
+    "ibb": {
+      "MetroUlasim": "Istanbul Metropolitan Municipality Metro Transportation",
+      "MetroUlasimDesc": "Istanbul Metropolitan Municipality Metro Transportation; fire doors, stainless steel directional road construction works"
+    },
+    "isBankasi2": {
+      "title": "İş Bankası",
+      "description": "İş Bankası Tuzla Gate construction works, ironwork"
+    },
+    "ibbMetro": {
+      "title": "Istanbul Metropolitan Municipality Metro",
+      "description": "Istanbul Metropolitan Municipality Metro Transportation, automatic roller shutter, sectional door"
+    },
+    "projects": {
+      "Title": "Our Projects",
+      "description1": "As Satodoor, we provide reliable craftsmanship and successful projects in construction and contracting projects.",
+      "description2": "Our past exemplary projects are known for compliance with quality standards and customer satisfaction."
+    },
+    "contact": {
+      "Title": "Contact Us",
+      "Description1": "Contact us, let us listen to your needs and provide you with the most suitable solution.",
+      "Description2": "Satodoor is by your side for reliable, high-quality, and aesthetic solutions for your business.",
+      "PhoneNumber": "Phone Number:",
+      "EmailAddress": "Email Address:"
+    }
+}
