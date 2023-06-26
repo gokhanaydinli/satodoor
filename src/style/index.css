@@ -221,6 +221,7 @@
     }
     #contact .container {
       flex-direction: column;
+      padding-top: 20px;
     }
     nav ul button {
       margin:0;
@@ -238,6 +239,9 @@
     .cIhXyI {
       min-height: 72px!important;
       padding-bottom: 0!important;
+    }
+    .modal-project {
+      max-width: 320px;
     }
   }
   .gegOru {
@@ -322,4 +326,29 @@
   .cIhXyI {
     padding-bottom: 0;
     min-height: 130px;
+  }
+
+  .modal-project {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  button .radius8 {
+    min-height: 302px;
+  }
+  .modal-project p {
+    margin: 0;
+    padding-top: 20px;
+  }
+  .modal-button {
+    top:16px;
+    right:16px;
+    position: absolute;
   }

@@ -35,8 +35,8 @@
       "KanyonDesc": "Eczacıbaşı Kanyon yangın kapısı ve inşaat taahhüt işleri"
     },
     "isBankasi": {
-      "Kuleler":"İş bankası Kuleler",
-      "KulelerDesc": "İş bankası Kuleler levent kapı, yangın kapısı, inşaa taahhüt işleri"
+      "Kuleler":"Varyap yangın kapısı",
+      "KulelerDesc": "Varyap yangın kapısı, yangın kapısı, inşaa taahhüt işleri"
     },
     "siseCam": {
       "title":"Şişe Cam",
@@ -62,7 +62,7 @@
     "contact": {
       "Title":"Bize Ulaşın",
       "Description1":  "Bize ulaşın, ihtiyaçlarınızı dinleyelim ve size en uygun çözümü sunalım.",
-      "tDescription2": "İşletmeniz için güvenilir, kaliteli ve estetik çözümler için Satodoor sizin yanınızda.",
+      "Description2": "İşletmeniz için güvenilir, kaliteli ve estetik çözümler için Satodoor sizin yanınızda.",
       "PhoneNumber": "Telefon Numaramız:",
       "EmailAddress": "E-Mail Adresimiz:"
     }

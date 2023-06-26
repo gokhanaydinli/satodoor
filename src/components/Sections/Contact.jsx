@@ -2,6 +2,31 @@ import React from "react";
 import styled from "styled-components";
 import { useTranslation } from "react-i18next";
 
+const PhoneNumber = ({ number }) => {
+  const handlePhoneClick = () => {
+    const cleanedPhoneNumber = number.replace(/\D/g, '');
+    window.location.href = `tel:${cleanedPhoneNumber}`;
+  };
+
+  return (
+    <p className="font13" onClick={handlePhoneClick} style={{ cursor: 'pointer' }}>
+      {number}
+    </p>
+  );
+};
+
+const EmailLink = ({ email }) => {
+  const handleEmailClick = () => {
+    window.location.href = `mailto:${email}`;
+  };
+
+  return (
+    <p className="font13" onClick={handleEmailClick} style={{ cursor: 'pointer' }}>
+      {email}
+    </p>
+  );
+};
+
 export default function Contact() {
   const { t } = useTranslation();
 
@@ -19,11 +44,11 @@ export default function Contact() {
             <br /><br />
             <p className="font20">
               {t("contact.PhoneNumber")}<br />
-              <p className="font13">(0212) 565 35 35</p>
+              <PhoneNumber number="(0212) 565 35 35" />
             </p><br /><br />
             <p className="font20">
               {t("contact.EmailAddress")}<br />
-              <p className="font13">info@satodoor.com.tr</p>
+              <EmailLink email="info@satodoor.com.tr" />
             </p>
           </HeaderInfo>
           <div>

@@ -5,11 +5,13 @@ import ProjectBox from "../Elements/ProjectBox";
 import { useTranslation } from "react-i18next";
 // Assets
 import ProjectImg1 from "../../assets/img/projects/1.png";
-import ProjectImg2 from "../../assets/img/projects/2.png";
+import ProjectImg2 from "../../assets/img/projects/varyap-yangin.jpeg";
 import ProjectImg3 from "../../assets/img/projects/3.png";
 import ProjectImg4 from "../../assets/img/projects/4.png";
-import ProjectImg5 from "../../assets/img/projects/5.png";
+import ProjectImg5 from "../../assets/img/projects/tuzla-insaat.jpeg";
 import ProjectImg6 from "../../assets/img/projects/6.png";
+import Tuzla from "../../assets/img/projects/tuzla-tutom.jpeg"
+import Varyap from "../../assets/img/projects/varyap-yangin2.jpeg"
 
 export default function Projects() {
   const [activeProject, setActiveProject] = useState(null);
@@ -33,10 +35,11 @@ export default function Projects() {
       );
     } else if (activeProject === 2) {
       return (
-        <>
+        <div className="modal-project">
           <h2>{t("isBankasi.Kuleler")}</h2>
+          <img src={Varyap}/>
           <p>{t("isBankasi.KulelerDesc")}</p>
-        </>
+        </div>
       );
     } else if (activeProject === 3) {
       return (
@@ -54,10 +57,11 @@ export default function Projects() {
       );
     } else if (activeProject === 5) {
       return (
-        <>
+        <div className="modal-project">
           <h2>{t("isBankasi2.title")}</h2>
+          <img src={Tuzla}/>
           <p>{t("isBankasi2.description")}</p>
-        </>
+        </div>
       );
     } else if (activeProject === 6) {
       return (
@@ -140,7 +144,7 @@ export default function Projects() {
         <ModalWrapper>
           <ModalContent>
             {renderModalContent()}
-            <button onClick={handleModalClose}>{t("closeButton")}</button>
+            <button class="modal-button" onClick={handleModalClose}>{t("X")}</button>
           </ModalContent>
         </ModalWrapper>
       )}
@@ -168,6 +172,7 @@ const ModalWrapper = styled.div`
   align-items: center;
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.5);
+  z-index:999;
 `;
 
 const ModalContent = styled.div`
@@ -175,6 +180,7 @@ const ModalContent = styled.div`
   padding: 20px;
   border-radius: 8px;
   text-align: center;
+  position:relative;
 
   h2 {
     margin-bottom: 10px;
